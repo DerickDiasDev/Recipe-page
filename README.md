@@ -22,8 +22,8 @@ Recipe page challenge do Frontend Mentor é uma tarefa onde você cria uma pági
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/DerickDiasDev/Recipe-page?tab=readme-ov-file)
+- Live Site URL: [Add live site URL here](https://derickdiasdev.github.io/Recipe-page/)
 
 ## My process
 
@@ -58,4 +58,5 @@ Em projetos futuros, quero me aprofundar em CSS Grid e explorar como combiná-lo
 
 Derick Dias
 dc - derick.dias
+
 # Recipe-page
